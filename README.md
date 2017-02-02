@@ -11,7 +11,7 @@ Descripcion
     - Registro y Login de usuarios
     - Reserva de actividades
    
- Entidades
+Entidades
 
 1 Actividad
    - Nombre
