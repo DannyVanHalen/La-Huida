@@ -12,8 +12,8 @@ Descripcion
     - Reserva de actividades
    
  Entidades
- 
- 1 Actividad
+
+1 Actividad
    - Nombre
    - Monitor
    - Fecha 
