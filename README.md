@@ -18,7 +18,7 @@ Entidades
    - Monitor
    - Fecha 
    - Plazas Disponibles
-   - Clientes apuntads
+   - Clientes inscritos
    - Lugar donde se realiza la actividad
    - Rutas de acceso 
    - Valoración media de la actividad
@@ -31,6 +31,7 @@ Entidades
   
 2.1 Cliente
   - Historial de Valoraciones de actividades realizadas
+  - grado de satisfaccion
   
 2.2 Monitor
   - Historial de actividades realizadas
