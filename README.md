@@ -7,7 +7,7 @@ Descripcion
     - Tipo de actividades que ofertan
     - Publicidad de la actividad de la empresaa
   
-  - Parte Privada 
+- Parte Privada 
     - Registro y Login de usuarios
     - Reserva de actividades
    
