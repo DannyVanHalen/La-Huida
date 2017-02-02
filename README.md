@@ -1,6 +1,6 @@
 # La-Huida
 
-Descripcion
+Descripción
  - Aplicación web de una empresa que realiza actividades, excursiones, y deportes en alta montaña
  - Parte Pública
     - Información de la empresa
